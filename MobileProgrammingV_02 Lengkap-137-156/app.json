@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "PPB-Praktikum-242310002",
+    "slug": "PPB-Praktikum-242310002",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "ppbpraktikum242310002",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "output": "static"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-splash-screen",
+      "expo-secure-store",
+      "expo-font",
+      "expo-web-browser"
+    ],
+    "experiments": {
+      "typedRoutes": true,
+      "reactCompiler": true
+    }
+  }
+}
