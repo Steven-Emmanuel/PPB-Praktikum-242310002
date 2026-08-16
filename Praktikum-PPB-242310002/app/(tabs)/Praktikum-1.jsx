@@ -1,10 +1,10 @@
-import React from 'react';
+﻿import React from 'react';
 import { View, Text, StyleSheet } from 'react-native';
 
 const Praktikum1 = () => {
   return (
     <View style={styles.infoContainer}>
-      {/* Replace the details below with your actual information */}
+      {}
       <Text style={styles.textLabel}>Selamat Datang Di Praktikum Pemrograman Perangkat Bergerak</Text>
       <Text style={styles.textLabel}>Name: STEVEN EMMANUEL</Text>
       <Text style={styles.textLabel}>NIM: 242310002</Text>
